@@ -1,0 +1,21 @@
+.text-field{
+  ;
+}
+
+.bordered-titled-title {
+  -fx-translate-x: 0;
+  -fx-translate-y: -8;
+  -fx-padding: 2 2 2 2;
+  -fx-background-color: -fx-background;
+}
+
+.bordered-titled-border {
+  -fx-content-display: bottom;
+  -fx-border-insets: 2 2 2 2;
+  -fx-border-color: rgb(51,51,51);
+  -fx-border-width: 2;
+}
+/* double top, double right, double bottom, double left */
+.bordered-titled-content {
+  -fx-padding: 18 5 5 0;
+}
