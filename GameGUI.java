@@ -1,9 +1,3 @@
-/**
-Ian Stranathan
-CS 110
-Boggle Phase 3
-*/
-
 import java.util.ArrayList;
 import java.util.Random;
 import java.io.*;
