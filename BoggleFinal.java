@@ -1,9 +1,3 @@
-/**
-Ian Stranathan
-CS 110
-Boggle Phase 3
-*/
-
 // I'm sure a lot of these imports are not needed, but I'm not using an IDE
 // and my textEditor doesn't show which dependencies are unused.
 
